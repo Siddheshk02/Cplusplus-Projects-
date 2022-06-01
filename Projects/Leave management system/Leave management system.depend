@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1631633830 source:c:\users\user\desktop\leave management system\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<windows.h>
+
