@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631976578 source:c:\users\user\desktop\attendance management system\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
